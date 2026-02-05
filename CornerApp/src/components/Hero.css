@@ -1,0 +1,16 @@
+.hero {
+  width: 100%;
+  background-color: #f3f4f6;
+}
+
+.hero-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}

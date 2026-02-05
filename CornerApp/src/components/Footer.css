@@ -1,0 +1,16 @@
+.footer {
+  padding: 24px;
+  background-color: #1f2933;
+  color: white;
+  text-align: center;
+}
+
+.footer-store {
+  margin: 0 0 8px;
+  font-size: 1.2rem;
+}
+
+.footer-info {
+  margin: 4px 0;
+  font-size: 0.95rem;
+}

@@ -1,0 +1,34 @@
+/* generative ai used */
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.item-info {
+  display: flex;
+  gap: 1rem;
+}
+
+.item-name {
+  font-weight: 500;
+}
+
+.item-price {
+  color: #555;
+}
+
+.remove-button {
+  background-color: #ff4d4f;
+  color: white;
+  border: none;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.remove-button:hover {
+  background-color: #d9363e;
+}
